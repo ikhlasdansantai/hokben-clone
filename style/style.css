@@ -465,6 +465,7 @@ button {
     background-color: #fff;
   }
   .header-img-menus {
+    overflow-x: inherit;
     padding: 0;
   }
   :is(.logo, .hamburger-menu) {
