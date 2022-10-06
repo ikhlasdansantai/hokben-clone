@@ -191,6 +191,7 @@ nav {
   padding: 0 1.5rem;
   margin-top: 3rem;
   position: relative;
+  overflow-x: hidden;
 }
 .bg-header {
   top: 0;
